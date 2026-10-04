@@ -1,0 +1,6 @@
+{
+  "name": "Two-Step Authentication Portal",
+  "description": "A responsive two-step authentication component with email and password verification screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
